@@ -5,3 +5,8 @@
 
 ### Staking contract address
 0xc6323Ff226Cf94CD925206006bF83894d649aBaC
+
+### front end code address
+https://github.com/sudouserx/sample-staking-frontend.git
+
+
